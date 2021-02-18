@@ -16,10 +16,10 @@
 
 ### 操作系统
 
-**现代操作系统**         [百度网盘下载](https://pan.baidu.com/s/1GUcI7hsUvlXeO6dM7Am8Fw)    提取码：qyfh
+**现代操作系统** &nbsp;&nbsp;&nbsp;[百度网盘下载](https://pan.baidu.com/s/1GUcI7hsUvlXeO6dM7Am8Fw) &nbsp;&nbsp; 提取码：qyfh
 
-**深入理解计算机系统（第三版文字版）**           [不限速下载](https://wwi.lanzous.com/iT8nqltm7rg)            [百度网盘下载](https://pan.baidu.com/s/1qmvR0fTJqIE2Sf6vjZT-Tw)    提取码：5tln
+**深入理解计算机系统（第三版文字版）** &nbsp;&nbsp;&nbsp; [不限速下载](https://wwi.lanzous.com/iT8nqltm7rg) &nbsp;&nbsp;&nbsp; [百度网盘下载](https://pan.baidu.com/s/1qmvR0fTJqIE2Sf6vjZT-Tw) &nbsp;&nbsp; 提取码：5tln
 
 ### 计算机网络
 
-**计算机网络 自顶向下 第七版中文**            [不限速下载](https://wwi.lanzous.com/i07XGltld9i)            [百度网盘下载](https://pan.baidu.com/s/1W3k0T8CTr-G763hnoW_lQg)    提取码：jv4f
+**计算机网络 自顶向下 第七版中文** &nbsp;&nbsp;&nbsp; [不限速下载](https://wwi.lanzous.com/i07XGltld9i) &nbsp;&nbsp;&nbsp; [百度网盘下载](https://pan.baidu.com/s/1W3k0T8CTr-G763hnoW_lQg) &nbsp;&nbsp; 提取码：jv4f
