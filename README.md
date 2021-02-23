@@ -223,7 +223,7 @@ Redis深度历险：核心原理和应用实践  &nbsp;&nbsp;&nbsp;&nbsp;  [不�
 MongoDB权威指南   &nbsp;&nbsp;&nbsp;&nbsp;  [不限速下载](https://wwi.lanzous.com/inlCOltwlxg) &nbsp;&nbsp;&nbsp; [百度网盘下载](https://pan.baidu.com/s/1zBP9-X5e0byS7AhlVIsvtQ) &nbsp;&nbsp; 提取码：u8xf
 
 ### Nginx
-深入理解Nginx模块开发与架构解析   &nbsp;&nbsp;&nbsp;&nbsp;  [不限速下载](https://wwi.lanzous.com/ilaYolv45md) &nbsp;&nbsp;&nbsp; [百度网盘下载](https://pan.baidu.com/s/1QHnaZ_85_MKPPbE1PftVPg) &nbsp;&nbsp; 提取码：g6n4
+深入理解Nginx模块开发与架构解析   &nbsp;&nbsp;&nbsp;&nbsp;  [不限速下载](https://wwi.lanzous.com/ipWIPm1ff0d) &nbsp;&nbsp;&nbsp; [百度网盘下载](https://pan.baidu.com/s/1MzZyTmPgKeg0lojdCunVEQ) &nbsp;&nbsp; 提取码：fu3k
 
 Nginx高性能Web服务器实战教程   &nbsp;&nbsp;&nbsp;&nbsp;   [百度网盘下载](https://pan.baidu.com/s/1z3SoakBTtcrlVn4mvsEgsQ) &nbsp;&nbsp; 提取码：v9yh
 
